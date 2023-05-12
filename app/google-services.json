@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168583318056",
+    "project_id": "techcase-b34a4",
+    "storage_bucket": "techcase-b34a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168583318056:android:2ac56729d97626cfce431d",
+        "android_client_info": {
+          "package_name": "com.brettfontys.techcase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168583318056-5dvqoa2v43qcdmpo8rsk5ucm6sjuhi9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5k-ohPXxHkr0q9pJAH-fIG2m6cx2XFKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168583318056-5dvqoa2v43qcdmpo8rsk5ucm6sjuhi9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
